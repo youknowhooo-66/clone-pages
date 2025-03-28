@@ -1,0 +1,45 @@
+html{
+    height: 100%;
+    
+}
+body{
+    height: 100%;
+    margin: 0;
+}
+.container{
+    height: 100%;
+    display: flex;
+}
+#esquerda{
+
+    height: 100%;
+    width: 34%;
+    background-color: blue;
+
+    /* }#esq-topo-image{
+
+
+    }#esq-topo-title{
+
+
+    }#esq-topo-subtitle{
+
+
+    }#esq-meio-input{
+
+
+    }#esq-baixo{
+
+
+    }#esq-rodape{
+ */
+
+}#direita{
+
+    height: 100%;
+    width: 66%;
+
+        }#box{
+
+            
+        }
